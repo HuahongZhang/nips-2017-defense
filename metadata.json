@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "acmore95/tensorflow_opencv_cpu",
+  "container_gpu": "acmore95/tensorflow_opencv_gpu",
+  "entry_point": "run_defense.sh"
+}
